@@ -26,11 +26,12 @@ $ npm run android
 
 #### Tools
 
-    * Expo (npx create-expo-app project)
-    * Javascript
-        * React Native
-        * Fetch API 
-    * Rick and Morty API
+   * Expo (npx create-expo-app project)
+   * Javascript
+     * React Native
+     * Fetch API 
+   * Rick and Morty API
+   
 
 #### License 
 
