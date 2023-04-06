@@ -8,6 +8,7 @@
 <p>Meu primeiro aplicativo, que fora desenvolvido com <strong>React Native, Expo, Fetch, <a href="https://rickandmortyapi.com/">Rick and Morty API</a></strong> e entre outros.</p>
 
 ![Screenshot](.github/screenshot.png)
+![Recorder](.github/screenRecorder.gif)
 
 #### Executando
 
