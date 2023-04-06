@@ -15,7 +15,7 @@
 
 # Clone repository
 $ git clone https://github.com/EricNeves/myFirstAndroidApp.git
-# Install 
+# Install dependencies
 $ cd myFirstAndroidApp && npm install
 # Run on android emulator
 $ npm run android 
