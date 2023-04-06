@@ -5,7 +5,7 @@
 ![Commit](https://img.shields.io/github/last-commit/ericneves/myFirstAndroidApp?color=success&logo=appveyor&logoColor=success&style=flat-square)
 ![License](https://img.shields.io/github/license/ericneves/myFirstAndroidApp?color=success&logo=appveyor&logoColor=success&style=flat-square)
 
-<p>Meu primeiro aplicativo, que fora desenvolvido com React Native, Expo, Fetch, Rick and Morty API e entre outros.</p>
+<p>Meu primeiro aplicativo, que fora desenvolvido com <strong>React Native, Expo, Fetch, <a href="https://rickandmortyapi.com/">Rick and Morty API</a></strong> e entre outros.</p>
 
 ![Screenshot](.github/screenshot.png)
 
@@ -21,6 +21,14 @@ $ cd myFirstAndroidApp && npm install
 $ npm run android 
 
 ```
+
+#### Tools
+
+    * Expo (npx create-expo-app project)
+    * Javascript
+        * React Native
+        * Fetch API 
+    * [Rick and Morty API](https://rickandmortyapi.com/)
 
 #### License 
 
