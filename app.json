@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myFirstAdroidApp",
-    "slug": "myFirstAdroidApp",
+    "name": "myFirstAndroidApp",
+    "slug": "myfirstandroidapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/et.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/et.png",
         "backgroundColor": "#161B22"
-      }
+      },
+      "package": "com.ericneves.myFirstAndroidApp"
     },
     "web": {
       "favicon": "./assets/et.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "da6a9b3a-53fe-4776-881e-0de972128981"
+      }
     }
   }
 }
