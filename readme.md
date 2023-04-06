@@ -30,7 +30,7 @@ $ npm run android
     * Javascript
         * React Native
         * Fetch API 
-    * [Rick and Morty API](https://rickandmortyapi.com/)
+    * Rick and Morty API
 
 #### License 
 
