@@ -9,6 +9,19 @@
 
 ![Screenshot](.github/screenshot.png)
 
+#### Executando
+
+```sh
+
+# Clone repository
+$ git clone https://github.com/EricNeves/myFirstAndroidApp.git
+# Install 
+$ cd myFirstAndroidApp && npm install
+# Run on android emulator
+$ npm run android 
+
+```
+
 #### License 
 
 ![License](https://img.shields.io/github/license/ericneves/myFirstAndroidApp?color=success&logo=appveyor&logoColor=success&style=flat-square)
